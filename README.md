@@ -21,7 +21,8 @@ The dashboard was built using Power BI, DAX, Power Query, and SQL with the help 
 ## Features
 
 - Members Analytics
-<img width="781" height="364" alt="Members overview" src="https://github.com/user-attachments/assets/090ed24c-23b9-4600-a662-a2aeedd66b48" />
+<img width="781" height="364" alt="Members overview" src="https://github.com/user-attachments/assets/090ed24c-23b9-4600-a662-a2aeedd66b48"/>
+
 - Belts and Exams progression
   <img width="875" height="431" alt="Belts and Exams" src="https://github.com/user-attachments/assets/cbd22888-d0bf-4dcd-80fd-ac376045589c" />
 
